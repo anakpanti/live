@@ -1,7 +1,7 @@
 <?php  
     error_reporting(0);
     include "func.php";
-	$fblink = 'https://www.facebook.com/compuphdec/videos/1396264497121504/';
+	$fblink = 'https://www.facebook.com/doraemonbahasaindonesiakita/videos/406753963055736/';
 	$fdata = facebookstream($fblink);
 ?>
 <!DOCTYPE html>
